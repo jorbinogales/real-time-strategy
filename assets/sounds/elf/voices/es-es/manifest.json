@@ -1,0 +1,368 @@
+{
+  "trabajador": {
+    "select": [
+      "assets/sounds/elf/voices/es-es/trabajador/select_1.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/select_2.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/select_3.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/select_4.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/elf/voices/es-es/trabajador/spawn_1.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/spawn_2.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/elf/voices/es-es/trabajador/order_move_1.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_move_2.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_move_3.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_move_4.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_move_5.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/elf/voices/es-es/trabajador/order_attack_1.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_attack_2.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_attack_3.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_attack_4.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_attack_5.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_attack_6.mp3"
+    ],
+    "order_work": [
+      "assets/sounds/elf/voices/es-es/trabajador/order_work_1.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_work_2.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_work_3.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/order_work_4.mp3"
+    ],
+    "attack": [
+      "assets/sounds/elf/voices/es-es/trabajador/attack_1.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/attack_2.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/attack_3.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/attack_4.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/attack_5.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/elf/voices/es-es/trabajador/death_1.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/death_2.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/death_3.mp3",
+      "assets/sounds/elf/voices/es-es/trabajador/death_4.mp3"
+    ]
+  },
+  "guerrero": {
+    "select": [
+      "assets/sounds/elf/voices/es-es/guerrero/select_1.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/select_2.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/select_3.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/select_4.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/elf/voices/es-es/guerrero/spawn_1.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/spawn_2.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/elf/voices/es-es/guerrero/order_move_1.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_move_2.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_move_3.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_move_4.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_move_5.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/elf/voices/es-es/guerrero/order_attack_1.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_attack_2.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_attack_3.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_attack_4.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_attack_5.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/elf/voices/es-es/guerrero/attack_1.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/attack_2.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/attack_3.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/attack_4.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/attack_5.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/elf/voices/es-es/guerrero/death_1.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/death_2.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/death_3.mp3",
+      "assets/sounds/elf/voices/es-es/guerrero/death_4.mp3"
+    ]
+  },
+  "guardian": {
+    "select": [
+      "assets/sounds/elf/voices/es-es/guardian/select_1.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/select_2.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/select_3.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/select_4.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/elf/voices/es-es/guardian/spawn_1.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/spawn_2.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/elf/voices/es-es/guardian/order_move_1.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_move_2.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_move_3.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_move_4.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_move_5.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/elf/voices/es-es/guardian/order_attack_1.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_attack_2.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_attack_3.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_attack_4.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_attack_5.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/elf/voices/es-es/guardian/attack_1.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/attack_2.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/attack_3.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/attack_4.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/attack_5.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/elf/voices/es-es/guardian/death_1.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/death_2.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/death_3.mp3",
+      "assets/sounds/elf/voices/es-es/guardian/death_4.mp3"
+    ]
+  },
+  "arquero": {
+    "select": [
+      "assets/sounds/elf/voices/es-es/arquero/select_1.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/select_2.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/select_3.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/select_4.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/elf/voices/es-es/arquero/spawn_1.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/spawn_2.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/elf/voices/es-es/arquero/order_move_1.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_move_2.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_move_3.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_move_4.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_move_5.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/elf/voices/es-es/arquero/order_attack_1.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_attack_2.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_attack_3.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_attack_4.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_attack_5.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/elf/voices/es-es/arquero/attack_1.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/attack_2.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/attack_3.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/attack_4.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/attack_5.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/elf/voices/es-es/arquero/death_1.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/death_2.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/death_3.mp3",
+      "assets/sounds/elf/voices/es-es/arquero/death_4.mp3"
+    ]
+  },
+  "texto": {
+    "trabajador": {
+      "select": [
+        "Que la luz os guíe, ¿qué necesitáis?",
+        "Os escucho, mi señor.",
+        "Con gusto, decidme.",
+        "¿En qué puedo ayudaros?",
+        "Aquí estoy, entre las hojas."
+      ],
+      "spawn": [
+        "Que el bosque os bendiga.",
+        "Listo para servir, mi señor.",
+        "He llegado con la brisa."
+      ],
+      "order_move": [
+        "Voy, suave como el viento.",
+        "Enseguida, mi señor.",
+        "Con paso ligero.",
+        "Siguiendo el sendero.",
+        "A vuestra orden, ya camino.",
+        "Que las hojas me guíen."
+      ],
+      "order_attack": [
+        "Si debo luchar, lucharé.",
+        "Defenderé el bosque.",
+        "Por la luz y los árboles.",
+        "No temo, mi señor.",
+        "Con valor, aunque tiemble.",
+        "Que las estrellas me protejan."
+      ],
+      "order_work": [
+        "Manos a la obra.",
+        "Con cuidado y cariño.",
+        "El bosque agradecerá este trabajo.",
+        "Lo haré con gusto."
+      ],
+      "attack": [
+        "¡Por el bosque!",
+        "¡Atrás, sombras!",
+        "¡Que la luz me ampare!",
+        "¡Por los árboles!",
+        "¡Fuera de aquí!",
+        "¡No os temo!"
+      ],
+      "death": [
+        "Ay... la luz se apaga...",
+        "Perdonadme, mi señor...",
+        "Vuelvo... al bosque...",
+        "Qué frío... qué silencio..."
+      ]
+    },
+    "guerrero": {
+      "select": [
+        "Honor y luz, mi señor.",
+        "Firme y dispuesto.",
+        "¿Cuál es la misión?",
+        "A vuestras órdenes, capitán.",
+        "Decid, y obraré."
+      ],
+      "spawn": [
+        "Por la corona de las hojas.",
+        "Mi espada es vuestra.",
+        "Listo para el combate."
+      ],
+      "order_move": [
+        "Avanzo con honor.",
+        "En marcha, mi señor.",
+        "El sendero es mío.",
+        "Hacia donde mandéis.",
+        "Marcho bajo las estrellas.",
+        "Sin demora."
+      ],
+      "order_attack": [
+        "Por el honor de mi pueblo.",
+        "¡Al combate!",
+        "Que caigan las sombras.",
+        "Mi espada no falla.",
+        "Los detendré, mi señor.",
+        "Con la luz como escudo."
+      ],
+      "attack": [
+        "¡Por la luz!",
+        "¡Por el reino del bosque!",
+        "¡Sentid mi acero!",
+        "¡Honor y gloria!",
+        "¡Caed, sombras!",
+        "¡No temo la oscuridad!"
+      ],
+      "death": [
+        "Mi luz... se extingue...",
+        "Con honor... caigo...",
+        "Decid a mi pueblo... que luché...",
+        "El bosque... me espera..."
+      ]
+    },
+    "guardian": {
+      "select": [
+        "Hablad, amigo.",
+        "Os escucho, joven.",
+        "Velo por vos.",
+        "Sereno y atento.",
+        "¿Qué se requiere?"
+      ],
+      "spawn": [
+        "Guardaré este bosque.",
+        "Presente y atento.",
+        "Nadie pasará."
+      ],
+      "order_move": [
+        "Voy, sin prisa.",
+        "Con calma.",
+        "El camino es largo, pero firme.",
+        "Avanzo.",
+        "A su lado, siempre.",
+        "Lento y seguro."
+      ],
+      "order_attack": [
+        "Protegeré lo nuestro.",
+        "Que se acerquen.",
+        "No retrocederé.",
+        "Es hora de defender.",
+        "El bosque no cae hoy.",
+        "Nadie lo tocará."
+      ],
+      "attack": [
+        "¡Detened vuestro paso!",
+        "¡Atrás, invasores!",
+        "¡Defiendo el bosque!",
+        "¡Muralla viva!",
+        "¡Retroceded, sombras!",
+        "¡Aquí termináis!"
+      ],
+      "death": [
+        "He cumplido... mi guarda...",
+        "Que el bosque... os proteja...",
+        "Descanso... al fin...",
+        "Mis raíces... me llaman..."
+      ]
+    },
+    "arquero": {
+      "select": [
+        "Mi vista no falla.",
+        "¿Qué blanco, mi señor?",
+        "Atento al viento.",
+        "Decidme dónde apuntar.",
+        "Preciso y listo."
+      ],
+      "spawn": [
+        "Flecha en el arco.",
+        "He llegado, sin ruido.",
+        "El viento me trae."
+      ],
+      "order_move": [
+        "Ligero como la brisa.",
+        "Me desplazo.",
+        "Sin hacer ruido.",
+        "Sombra entre los árboles.",
+        "Busco mejor ángulo.",
+        "A paso de ciervo."
+      ],
+      "order_attack": [
+        "Ya lo tengo en la mira.",
+        "Un solo disparo basta.",
+        "Apunto y suelto.",
+        "El blanco está marcado.",
+        "No fallaré.",
+        "Que vuelen las flechas."
+      ],
+      "attack": [
+        "¡Flecha al viento!",
+        "¡Directo al blanco!",
+        "¡Toma esto!",
+        "¡Vuela, flecha!",
+        "¡Ni un movimiento!",
+        "¡Cuerda tensa, tiro certero!"
+      ],
+      "death": [
+        "Mi arco... se calla...",
+        "El viento... se lleva mi flecha...",
+        "Fallé... el último...",
+        "Que mi flecha... llegue lejos..."
+      ]
+    }
+  }
+}

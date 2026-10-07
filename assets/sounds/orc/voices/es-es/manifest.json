@@ -1,0 +1,368 @@
+{
+  "berserker": {
+    "select": [
+      "assets/sounds/orc/voices/es-es/berserker/select_1.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/select_2.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/select_3.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/select_4.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/orc/voices/es-es/berserker/spawn_1.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/spawn_2.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/orc/voices/es-es/berserker/order_move_1.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_move_2.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_move_3.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_move_4.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_move_5.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/orc/voices/es-es/berserker/order_attack_1.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_attack_2.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_attack_3.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_attack_4.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_attack_5.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/orc/voices/es-es/berserker/attack_1.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/attack_2.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/attack_3.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/attack_4.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/attack_5.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/orc/voices/es-es/berserker/death_1.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/death_2.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/death_3.mp3",
+      "assets/sounds/orc/voices/es-es/berserker/death_4.mp3"
+    ]
+  },
+  "orco-lancero": {
+    "select": [
+      "assets/sounds/orc/voices/es-es/orco-lancero/select_1.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/select_2.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/select_3.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/select_4.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/orc/voices/es-es/orco-lancero/spawn_1.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/spawn_2.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_move_1.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_move_2.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_move_3.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_move_4.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_move_5.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_attack_1.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_attack_2.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_attack_3.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_attack_4.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_attack_5.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/orc/voices/es-es/orco-lancero/attack_1.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/attack_2.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/attack_3.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/attack_4.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/attack_5.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/orc/voices/es-es/orco-lancero/death_1.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/death_2.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/death_3.mp3",
+      "assets/sounds/orc/voices/es-es/orco-lancero/death_4.mp3"
+    ]
+  },
+  "lanzador-jabalina": {
+    "select": [
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/select_1.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/select_2.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/select_3.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/select_4.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/spawn_1.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/spawn_2.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_move_1.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_move_2.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_move_3.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_move_4.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_move_5.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_attack_1.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_attack_2.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_attack_3.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_attack_4.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_attack_5.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/attack_1.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/attack_2.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/attack_3.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/attack_4.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/attack_5.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/death_1.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/death_2.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/death_3.mp3",
+      "assets/sounds/orc/voices/es-es/lanzador-jabalina/death_4.mp3"
+    ]
+  },
+  "esclavo": {
+    "select": [
+      "assets/sounds/orc/voices/es-es/esclavo/select_1.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/select_2.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/select_3.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/select_4.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/orc/voices/es-es/esclavo/spawn_1.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/spawn_2.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/orc/voices/es-es/esclavo/order_move_1.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_move_2.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_move_3.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_move_4.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_move_5.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/orc/voices/es-es/esclavo/order_attack_1.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_attack_2.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_attack_3.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_attack_4.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_attack_5.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_attack_6.mp3"
+    ],
+    "order_work": [
+      "assets/sounds/orc/voices/es-es/esclavo/order_work_1.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_work_2.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_work_3.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/order_work_4.mp3"
+    ],
+    "attack": [
+      "assets/sounds/orc/voices/es-es/esclavo/attack_1.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/attack_2.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/attack_3.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/attack_4.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/attack_5.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/orc/voices/es-es/esclavo/death_1.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/death_2.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/death_3.mp3",
+      "assets/sounds/orc/voices/es-es/esclavo/death_4.mp3"
+    ]
+  },
+  "texto": {
+    "berserker": {
+      "select": [
+        "¡Sangre!",
+        "¿Quién quiere morir primero?",
+        "¡Já, já! ¡Dime a quién mato!",
+        "¡Guerra, guerra!",
+        "¿Ya toca matar?"
+      ],
+      "spawn": [
+        "¡Ya estoy aquí, a sangrar!",
+        "¡Por los cráneos del clan!",
+        "¡Me pica el hacha, jefe!"
+      ],
+      "order_move": [
+        "¡Voy corriendo a matar!",
+        "¡Ya voy, ya voy, já!",
+        "¡Sangre al camino!",
+        "¡Fuera de mi paso!",
+        "¡Corro como el trueno!",
+        "¡Adelante, adelante!"
+      ],
+      "order_attack": [
+        "¡Los despedazaré!",
+        "¡A destripar!",
+        "¡Que corra la sangre!",
+        "¡Los haré pedazos, já!",
+        "¡Muerte a todos!",
+        "¡Voy a por sus cráneos!"
+      ],
+      "attack": [
+        "¡A matar, a matar!",
+        "¡Muere, muere, muere!",
+        "¡Sangre, sangre!",
+        "¡Te arrancaré el corazón!",
+        "¡Qué divertido es matar!",
+        "¡Cráneos para el trono!"
+      ],
+      "death": [
+        "¡Aaagh! ¡Todavía quiero matar!",
+        "¡Me río de la muerte, já!",
+        "¡Mi sangre es del clan!",
+        "¡Más... sangre...!"
+      ]
+    },
+    "orco-lancero": {
+      "select": [
+        "Habla.",
+        "Te escucho, miserable.",
+        "¿Qué quieres?",
+        "Mi lanza tiene sed.",
+        "Ordena, jefe."
+      ],
+      "spawn": [
+        "Listo para empalar.",
+        "El clan me manda.",
+        "Que tiemblen sus aldeas."
+      ],
+      "order_move": [
+        "Me muevo.",
+        "Voy, despacio y seguro.",
+        "A la caza.",
+        "Sin prisa, sin piedad.",
+        "Hacia la presa.",
+        "Marcho, jefe."
+      ],
+      "order_attack": [
+        "Los ensartaré.",
+        "Morirán lentamente.",
+        "Será un placer cruel.",
+        "Prepárate, presa.",
+        "Se acabó su suerte.",
+        "Empalad a todos."
+      ],
+      "attack": [
+        "¡Siente mi lanza!",
+        "¡Muere despacio!",
+        "Sufre, humano.",
+        "¡Atravesado!",
+        "¡Ni un grito más!",
+        "¡Cae, gusano!"
+      ],
+      "death": [
+        "Maldito... seas...",
+        "El clan... me vengará...",
+        "Me duele... pero os arrastraré...",
+        "Frío... qué frío..."
+      ]
+    },
+    "lanzador-jabalina": {
+      "select": [
+        "¿A quién clavo hoy?",
+        "Dime el blanco, já.",
+        "Nunca fallo, jefe.",
+        "¿Me llamabas, jefe?",
+        "Con esta puntería, mándame."
+      ],
+      "spawn": [
+        "Aquí el mejor lanzador.",
+        "¡Que se escondan, já!",
+        "A punto y afilado."
+      ],
+      "order_move": [
+        "Ya voy, tranquilo.",
+        "Me muevo, jefe.",
+        "Cambio de sitio.",
+        "Corriendo, corriendo.",
+        "Voy a por un buen sitio.",
+        "Marcho a mi manera."
+      ],
+      "order_attack": [
+        "Les haré agujeros.",
+        "¡Esos son míos!",
+        "A ver si aciertas... ah, yo sí.",
+        "Los tengo en el punto de mira.",
+        "Qué blanco tan gordo.",
+        "A lanzar, que me aburro."
+      ],
+      "attack": [
+        "¡Toma jabalina!",
+        "¡Directo al ojo!",
+        "¡Eso es puntería!",
+        "¡Esquívala si puedes!",
+        "¡Otro más para la colección!",
+        "¡Clavado, clavado!"
+      ],
+      "death": [
+        "¡No... ha sido... un buen lanzamiento!",
+        "Me han... acertado... qué insulto...",
+        "¡Mi jabalina... no falló!",
+        "Fallé... el último..."
+      ]
+    },
+    "esclavo": {
+      "select": [
+        "¿S-sí, amo?",
+        "¡No me peguéis!",
+        "Aquí estoy, amo...",
+        "¿Qué queréis, mi amo?",
+        "P-por favor, no..."
+      ],
+      "spawn": [
+        "¡S-sí, amo, ya salgo!",
+        "Me han... me han traído...",
+        "A v-vuestro servicio..."
+      ],
+      "order_move": [
+        "Enseguida, amo, enseguida.",
+        "S-sí, amo, corro.",
+        "Voy, voy, no gritéis.",
+        "Me muevo, me muevo...",
+        "Perdón, perdón, ya voy.",
+        "Voy deprisa, amo."
+      ],
+      "order_attack": [
+        "¿Yo... pelear? S-sí, amo...",
+        "Por favor, no me mandéis...",
+        "V-voy, aunque tiemblo...",
+        "Me matarán, pero voy...",
+        "Lo haré, lo haré...",
+        "Tened piedad de mí, amo."
+      ],
+      "order_work": [
+        "S-sí, amo, trabajo.",
+        "Ya lo hago, ya lo hago.",
+        "No me peguéis, trabajo.",
+        "Cargaré lo que mandéis."
+      ],
+      "attack": [
+        "¡Quitad, quitad, por favor!",
+        "¡Dejadme... dejadme!",
+        "¡Por favor, no más!",
+        "¡Tomad... tomad esto!",
+        "¡No me tocaréis!",
+        "¡Aléjate, aléjate!"
+      ],
+      "death": [
+        "Al fin... descanso...",
+        "Gracias... amo... por... nada...",
+        "No... duele... ya...",
+        "Mamá... ay..."
+      ]
+    }
+  }
+}

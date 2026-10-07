@@ -1,0 +1,51 @@
+{
+  "units": "game_world",
+  "coordinateSystem": "right_handed_y_up_front_plus_z",
+  "partsAreSeparateGlbs": true,
+  "buildings": {
+    "deposito-minerales": {
+      "final": "deposito-minerales_e4.glb",
+      "stageRotationYRadians": {"e1": 0, "e2": 0, "e3": 0, "e4": 0},
+      "parts": []
+    },
+    "aserradero": {
+      "final": "aserradero_e4.glb",
+      "stageRotationYRadians": {"e1": 0, "e2": 0, "e3": 0, "e4": 0},
+      "parts": [
+        {
+          "node": "sierra",
+          "file": "aserradero_sierra.glb",
+          "position": [-0.12, 0.55, 0.35],
+          "rotationEulerXYZRadians": [0, 0, 0],
+          "scale": [1, 1, 1],
+          "restPosition": [-0.12, 0.55, 0.35],
+          "motionAxesLocal": ["Y", "X"]
+        },
+        {
+          "node": "tronco",
+          "file": "aserradero_tronco.glb",
+          "position": [0.25, 0.45, 0.36],
+          "rotationEulerXYZRadians": [0, 0, 0],
+          "scale": [1, 1, 1],
+          "restPosition": [0.25, 0.45, 0.36],
+          "motionAxesLocal": ["X"]
+        }
+      ]
+    },
+    "molino": {
+      "final": "molino_e4.glb",
+      "stageRotationYRadians": {"e1": 0, "e2": 0, "e3": 0, "e4": 0},
+      "parts": [
+        {
+          "node": "aspas",
+          "file": "molino_aspas.glb",
+          "position": [0, 1.68, 0.78],
+          "rotationEulerXYZRadians": [0, 0, 0],
+          "scale": [1, 1, 1],
+          "restPosition": [0, 1.68, 0.78],
+          "rotationAxisLocal": "+Z"
+        }
+      ]
+    }
+  }
+}

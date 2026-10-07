@@ -1,0 +1,114 @@
+{
+  "units": "game_world",
+  "coordinateSystem": "right_handed_y_up_front_plus_z",
+  "partsAreSeparateGlbs": true,
+  "buildings": {
+    "templo-sagrado": {
+      "final": "templo-sagrado_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": [
+        {
+          "node": "cristal",
+          "file": "templo-sagrado_cristal.glb",
+          "position": [
+            0,
+            1.92,
+            -0.18
+          ],
+          "restPosition": [
+            0,
+            1.92,
+            -0.18
+          ],
+          "rotationEulerXYZRadians": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "rotationAxisLocal": "+Y",
+          "bobAxisLocal": "+Y"
+        }
+      ]
+    },
+    "cuartel": {
+      "final": "cuartel_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "arqueria": {
+      "final": "arqueria_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "arboles-frutales": {
+      "final": "arboles-frutales_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "deposito-frutas": {
+      "final": "deposito-frutas_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "deposito-minerales": {
+      "final": "deposito-minerales_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "cabana-guardabosques": {
+      "final": "cabana-guardabosques_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "casa": {
+      "final": "casa_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    }
+  }
+}

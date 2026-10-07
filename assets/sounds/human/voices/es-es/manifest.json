@@ -1,0 +1,368 @@
+{
+  "soldado-raso": {
+    "select": [
+      "assets/sounds/human/voices/es-es/soldado-raso/select_1.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/select_2.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/select_3.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/select_4.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/human/voices/es-es/soldado-raso/spawn_1.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/spawn_2.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/human/voices/es-es/soldado-raso/order_move_1.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_move_2.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_move_3.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_move_4.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_move_5.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/human/voices/es-es/soldado-raso/order_attack_1.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_attack_2.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_attack_3.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_attack_4.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_attack_5.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/human/voices/es-es/soldado-raso/attack_1.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/attack_2.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/attack_3.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/attack_4.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/attack_5.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/human/voices/es-es/soldado-raso/death_1.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/death_2.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/death_3.mp3",
+      "assets/sounds/human/voices/es-es/soldado-raso/death_4.mp3"
+    ]
+  },
+  "lancero": {
+    "select": [
+      "assets/sounds/human/voices/es-es/lancero/select_1.mp3",
+      "assets/sounds/human/voices/es-es/lancero/select_2.mp3",
+      "assets/sounds/human/voices/es-es/lancero/select_3.mp3",
+      "assets/sounds/human/voices/es-es/lancero/select_4.mp3",
+      "assets/sounds/human/voices/es-es/lancero/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/human/voices/es-es/lancero/spawn_1.mp3",
+      "assets/sounds/human/voices/es-es/lancero/spawn_2.mp3",
+      "assets/sounds/human/voices/es-es/lancero/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/human/voices/es-es/lancero/order_move_1.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_move_2.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_move_3.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_move_4.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_move_5.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/human/voices/es-es/lancero/order_attack_1.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_attack_2.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_attack_3.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_attack_4.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_attack_5.mp3",
+      "assets/sounds/human/voices/es-es/lancero/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/human/voices/es-es/lancero/attack_1.mp3",
+      "assets/sounds/human/voices/es-es/lancero/attack_2.mp3",
+      "assets/sounds/human/voices/es-es/lancero/attack_3.mp3",
+      "assets/sounds/human/voices/es-es/lancero/attack_4.mp3",
+      "assets/sounds/human/voices/es-es/lancero/attack_5.mp3",
+      "assets/sounds/human/voices/es-es/lancero/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/human/voices/es-es/lancero/death_1.mp3",
+      "assets/sounds/human/voices/es-es/lancero/death_2.mp3",
+      "assets/sounds/human/voices/es-es/lancero/death_3.mp3",
+      "assets/sounds/human/voices/es-es/lancero/death_4.mp3"
+    ]
+  },
+  "arquero": {
+    "select": [
+      "assets/sounds/human/voices/es-es/arquero/select_1.mp3",
+      "assets/sounds/human/voices/es-es/arquero/select_2.mp3",
+      "assets/sounds/human/voices/es-es/arquero/select_3.mp3",
+      "assets/sounds/human/voices/es-es/arquero/select_4.mp3",
+      "assets/sounds/human/voices/es-es/arquero/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/human/voices/es-es/arquero/spawn_1.mp3",
+      "assets/sounds/human/voices/es-es/arquero/spawn_2.mp3",
+      "assets/sounds/human/voices/es-es/arquero/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/human/voices/es-es/arquero/order_move_1.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_move_2.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_move_3.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_move_4.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_move_5.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/human/voices/es-es/arquero/order_attack_1.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_attack_2.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_attack_3.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_attack_4.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_attack_5.mp3",
+      "assets/sounds/human/voices/es-es/arquero/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/human/voices/es-es/arquero/attack_1.mp3",
+      "assets/sounds/human/voices/es-es/arquero/attack_2.mp3",
+      "assets/sounds/human/voices/es-es/arquero/attack_3.mp3",
+      "assets/sounds/human/voices/es-es/arquero/attack_4.mp3",
+      "assets/sounds/human/voices/es-es/arquero/attack_5.mp3",
+      "assets/sounds/human/voices/es-es/arquero/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/human/voices/es-es/arquero/death_1.mp3",
+      "assets/sounds/human/voices/es-es/arquero/death_2.mp3",
+      "assets/sounds/human/voices/es-es/arquero/death_3.mp3",
+      "assets/sounds/human/voices/es-es/arquero/death_4.mp3"
+    ]
+  },
+  "campesino": {
+    "select": [
+      "assets/sounds/human/voices/es-es/campesino/select_1.mp3",
+      "assets/sounds/human/voices/es-es/campesino/select_2.mp3",
+      "assets/sounds/human/voices/es-es/campesino/select_3.mp3",
+      "assets/sounds/human/voices/es-es/campesino/select_4.mp3",
+      "assets/sounds/human/voices/es-es/campesino/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/human/voices/es-es/campesino/spawn_1.mp3",
+      "assets/sounds/human/voices/es-es/campesino/spawn_2.mp3",
+      "assets/sounds/human/voices/es-es/campesino/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/human/voices/es-es/campesino/order_move_1.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_move_2.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_move_3.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_move_4.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_move_5.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/human/voices/es-es/campesino/order_attack_1.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_attack_2.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_attack_3.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_attack_4.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_attack_5.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_attack_6.mp3"
+    ],
+    "order_work": [
+      "assets/sounds/human/voices/es-es/campesino/order_work_1.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_work_2.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_work_3.mp3",
+      "assets/sounds/human/voices/es-es/campesino/order_work_4.mp3"
+    ],
+    "attack": [
+      "assets/sounds/human/voices/es-es/campesino/attack_1.mp3",
+      "assets/sounds/human/voices/es-es/campesino/attack_2.mp3",
+      "assets/sounds/human/voices/es-es/campesino/attack_3.mp3",
+      "assets/sounds/human/voices/es-es/campesino/attack_4.mp3",
+      "assets/sounds/human/voices/es-es/campesino/attack_5.mp3",
+      "assets/sounds/human/voices/es-es/campesino/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/human/voices/es-es/campesino/death_1.mp3",
+      "assets/sounds/human/voices/es-es/campesino/death_2.mp3",
+      "assets/sounds/human/voices/es-es/campesino/death_3.mp3",
+      "assets/sounds/human/voices/es-es/campesino/death_4.mp3"
+    ]
+  },
+  "texto": {
+    "soldado-raso": {
+      "select": [
+        "¿Sí, mi señor?",
+        "¡A vuestras órdenes!",
+        "¿Me llamabais, señor?",
+        "¡Aquí estoy, mi señor!",
+        "¿Qué necesitáis, señor?"
+      ],
+      "spawn": [
+        "¡Listo para servir!",
+        "¡Por Castilla, mi señor!",
+        "¡Presentándome, señor!"
+      ],
+      "order_move": [
+        "¡Ahora mismo, señor!",
+        "¡Voy corriendo!",
+        "¡Me muevo ya, mi señor!",
+        "¡Allá voy!",
+        "¡En camino, señor!",
+        "¡Sí, señor, ya voy!"
+      ],
+      "order_attack": [
+        "¡Al ataque!",
+        "¡Voy a por ellos!",
+        "¡Sí, mi señor, los detendré!",
+        "¡Los haré retroceder!",
+        "¡Que vengan, no les temo!",
+        "¡A la carga, señor!"
+      ],
+      "attack": [
+        "¡Santiago y cierra, España!",
+        "¡Tomad esto, bellacos!",
+        "¡Por el rey!",
+        "¡No pasaréis!",
+        "¡Por mi tierra y mi gente!",
+        "¡Pardiez, ahí va eso!"
+      ],
+      "death": [
+        "¡Ay, madre mía! ¡Piedad!",
+        "¡Perdonadme, mi señor!",
+        "¡No... aún soy muy joven!",
+        "¡Que Dios me... acoja!"
+      ]
+    },
+    "lancero": {
+      "select": [
+        "Hablad.",
+        "Os escucho.",
+        "Ordenad, señor.",
+        "Firme, señor.",
+        "¿Qué se ofrece?"
+      ],
+      "spawn": [
+        "Presente, mi señor.",
+        "Cumpliré, señor.",
+        "Que vengan, pues."
+      ],
+      "order_move": [
+        "Avanzo.",
+        "Marchando.",
+        "Entendido.",
+        "Me muevo.",
+        "En marcha, señor.",
+        "Hacia allá."
+      ],
+      "order_attack": [
+        "Los aplastaré.",
+        "Cerrando filas.",
+        "Será un placer.",
+        "Adelante, hombres.",
+        "Sin piedad.",
+        "Enemigo a la vista, atacamos."
+      ],
+      "attack": [
+        "¡Cerrad filas!",
+        "¡Probad mi lanza!",
+        "¡Ni un paso más!",
+        "¡Atrás, canallas!",
+        "¡Voto a Dios, morid!",
+        "¡Mantened la línea!"
+      ],
+      "death": [
+        "Cumplí... mi deber...",
+        "Mal rayo... me parta...",
+        "Dios os guarde... señor...",
+        "Al fin... descanso..."
+      ]
+    },
+    "arquero": {
+      "select": [
+        "¿Algún blanco, señor?",
+        "Decidme y apunto.",
+        "Aquí estoy, aunque no lo parezca.",
+        "Vos mandáis, yo disparo.",
+        "¿Y ahora qué, mi señor?"
+      ],
+      "spawn": [
+        "Ya llegué, tranquilos.",
+        "Con vuestra venia, señor.",
+        "Que tiemblen los bellacos."
+      ],
+      "order_move": [
+        "Con calma, pero voy.",
+        "Me muevo, señor.",
+        "Paso ligero.",
+        "Como una sombra.",
+        "Ya voy, ya voy.",
+        "Cambio de posición."
+      ],
+      "order_attack": [
+        "Tengo a ese en la mira.",
+        "Un blanco fácil.",
+        "Los haré bailar.",
+        "Apuntad... y fuego.",
+        "Qué detalle, me traen blancos.",
+        "Ya los tengo contados."
+      ],
+      "attack": [
+        "Ahí va, que se aparte quien pueda.",
+        "Callad, que apunto.",
+        "Un saludo de parte del rey.",
+        "Directo al blanco.",
+        "¡Por Castilla, a volar!",
+        "Eso os pasa por quedaros quietos."
+      ],
+      "death": [
+        "Vaya... qué mala puntería la suya...",
+        "Qué descortés... me han dado...",
+        "Decidle a mi madre... que fallé...",
+        "Se acabó... la función..."
+      ]
+    },
+    "campesino": {
+      "select": [
+        "¿Mande, mi señor?",
+        "Decid, aquí me tenéis.",
+        "Con vuestro permiso, señor.",
+        "¿Qué se os ofrece, señor?",
+        "Dispuesto, aunque cansado."
+      ],
+      "spawn": [
+        "¡Ya estoy aquí, señor!",
+        "A trabajar, que el campo no espera.",
+        "Servidor, mi señor."
+      ],
+      "order_move": [
+        "Voy, señor, voy.",
+        "A pie, pero llego.",
+        "Allá me encamino.",
+        "Despacito, que me duelen las piernas.",
+        "Como mandéis, señor.",
+        "Ya me pongo en marcha."
+      ],
+      "order_attack": [
+        "¿Pelear yo? Bueno, si lo mandáis...",
+        "Con la horca iré a por ellos.",
+        "Que San Isidro me ampare.",
+        "Por mis cosechas, ¡al ataque!",
+        "Nunca he luchado, pero ahí voy.",
+        "¡Que se atrevan a pisar mi huerto!"
+      ],
+      "order_work": [
+        "A ello, señor.",
+        "Manos a la obra.",
+        "Esto se hace en un santiamén.",
+        "A trabajar se ha dicho."
+      ],
+      "attack": [
+        "¡Tomad, con la horca!",
+        "¡Fuera de mis tierras!",
+        "¡Pardiez, me las pagaréis!",
+        "¡Y esto por mis cosechas!",
+        "¡Lárgate, bellaco!",
+        "¡Cobardes, fuera de aquí!"
+      ],
+      "death": [
+        "¡Ay, mis pobres cosechas...!",
+        "Que alguien cuide mi huerto...",
+        "Yo solo quería labrar...",
+        "Mi mujer... mis hijos... ¡ay!"
+      ]
+    }
+  }
+}

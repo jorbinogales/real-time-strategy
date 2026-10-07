@@ -1,0 +1,98 @@
+{
+  "soldado-raso": {
+    "voice_id": "ESz1lU28BDjrenaBGmik",
+    "name": "RTS Soldado Raso (es-es)",
+    "locale": "es-es",
+    "description": "A young adult male voice, about 20 years old, clear, energetic, eager and loyal, slightly nervous but brave, bright. Joven, acento castellano de España, claro, enérgico. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp (ceceo castellano), NOT Latin American, NOT Mexican, NOT Argentine. Clean studio recording, medieval knight-era delivery."
+  },
+  "lancero": {
+    "voice_id": "Z1tNi6IZ8bqSK9zttsVL",
+    "name": "RTS Lancero (es-es)",
+    "locale": "es-es",
+    "description": "A deep, gravelly, harsh middle-aged male voice, about 50 years old, a weathered veteran soldier, severe, slow and laconic, low-pitched and rough like a battle-hardened sergeant. Veterano grave, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp (ceceo castellano), NOT Latin American, NOT Mexican, NOT Argentine. Clean studio recording, medieval knight-era delivery."
+  },
+  "arquero": {
+    "voice_id": "GRwUT6rHtfUg2iGcaDy9",
+    "name": "RTS Arquero (es-es)",
+    "locale": "es-es",
+    "description": "A medium-pitched adult male voice, about 30 years old, light, calm and relaxed, with a dry sarcastic, mocking tone, agile and unhurried, smooth and slightly playful. Sereno y socarrón, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp (ceceo castellano), NOT Latin American, NOT Mexican, NOT Argentine. Clean studio recording, medieval knight-era delivery."
+  },
+  "campesino": {
+    "voice_id": "RO0syLc0PNrmKMxSpVTY",
+    "name": "RTS Campesino (es-es)",
+    "locale": "es-es",
+    "description": "A warm, rustic, middle-aged male voice, about 45 years old, a humble hardworking medieval peasant farmer, earthy, kindly and a bit weary, mid-low pitch with a slightly nasal rural tone, simple and sincere. Campesino humilde, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp (ceceo castellano), NOT Latin American, NOT Mexican, NOT Argentine. Clean studio recording, medieval knight-era delivery."
+  },
+  "berserker": {
+    "voice_id": "QQn3bf4H6yfT65TJnJx6",
+    "name": "RTS Orco Berserker (es-es)",
+    "locale": "es-es",
+    "description": "A very deep, raspy, guttural adult male voice, an insane orc berserker: overflowing with fury, snarling, shouting, maniacal laughter, unhinged and aggressive, loud roaring. Orco berserker enloquecido, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Orc fantasy warrior character, growling and guttural delivery, raw and unfiltered studio recording."
+  },
+  "orco-lancero": {
+    "voice_id": "VJkQoE1kxzER5knj9llp",
+    "name": "RTS Orco Lancero (es-es)",
+    "locale": "es-es",
+    "description": "A deep, hoarse, hissing adult male voice, an orc spearman: aggressive but dry, cold and menacing, cruel and sibilant, low-pitched and slow, a hissing threatening growl. Orco lancero cruel, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Orc fantasy warrior character, growling and guttural delivery, raw and unfiltered studio recording."
+  },
+  "lanzador-jabalina": {
+    "voice_id": "IsQ2vmZ1ijpNTqs5G5Jp",
+    "name": "RTS Orco Lanzador (es-es)",
+    "locale": "es-es",
+    "description": "A deep, raspy adult male voice, an orc javelin thrower: aggressive, mocking and cocky, boasting about his perfect aim, sneering and playful, shouts when throwing. Orco burlón y presumido, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Orc fantasy warrior character, growling and guttural delivery, raw and unfiltered studio recording."
+  },
+  "esclavo": {
+    "voice_id": "TpA3o36pUor4a04kS8bB",
+    "name": "RTS Orco Esclavo (es-es)",
+    "locale": "es-es",
+    "description": "A frightened, beaten, trembling adult male voice, a cowering orc slave: stuttering, whimpering, begging, submissive and broken, hoarse and weak, shaky and tearful. Esclavo asustado y golpeado, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Orc fantasy warrior character, growling and guttural delivery, raw and unfiltered studio recording."
+  },
+  "trabajador": {
+    "voice_id": "GLAXb6JE87GtQK0TaDHp",
+    "name": "RTS Elfo Trabajador (es-es)",
+    "locale": "es-es",
+    "description": "A young adult male elf voice, soft, gentle, helpful and eager to serve, light and airy, melodic and serene, slightly shy. Elfo joven y servicial, voz suave y etérea, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Elegant, melodic, serene and ethereal elven fantasy character, soft and refined, clean studio recording."
+  },
+  "guerrero": {
+    "voice_id": "aasXzkYA7Mrx4STd5qN8",
+    "name": "RTS Elfo Guerrero (es-es)",
+    "locale": "es-es",
+    "description": "A firm, noble adult male elf voice, about 30 years old, proud and clear, resolute, melodious and dignified, calm authority. Elfo guerrero noble, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Elegant, melodic, serene and ethereal elven fantasy character, soft and refined, clean studio recording."
+  },
+  "guardian": {
+    "voice_id": "K8is9iG1ti9yl6nuGHz8",
+    "name": "RTS Elfo Guardián (es-es)",
+    "locale": "es-es",
+    "description": "A deep, calm, serene and protective adult male elf voice, about 50 years old, resonant, slow and wise, grave and gentle at once, few words. Elfo guardián sereno y protector, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Elegant, melodic, serene and ethereal elven fantasy character, soft and refined, clean studio recording."
+  },
+  "elf-arquero": {
+    "voice_id": "hV83DjFkiHOYz3eVmGF6",
+    "name": "RTS Elfo Arquero (es-es)",
+    "locale": "es-es",
+    "description": "An agile, confident and precise adult male elf voice, about 28 years old, crisp, light and calm, melodious, a quiet sureness like a perfect marksman. Elfo arquero ágil y seguro, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Elegant, melodic, serene and ethereal elven fantasy character, soft and refined, clean studio recording."
+  },
+  "obrero": {
+    "voice_id": "oBtJfQbXY78PCBpJlBNg",
+    "name": "RTS Enano Obrero (es-es)",
+    "locale": "es-es",
+    "description": "A hoarse, gravelly, cheerful middle-aged male dwarf voice, jolly and hearty, a happy hardworking miner, rough and warm, mid-low pitch. Enano obrero ronco y alegre, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Fantasy dwarf character: bearded miner and blacksmith, deep, gravelly, hearty and rugged, raw studio recording."
+  },
+  "dwarf-guerrero": {
+    "voice_id": "PlsJUuLQJQRXQpfsgkT8",
+    "name": "RTS Enano Guerrero (es-es)",
+    "locale": "es-es",
+    "description": "A very deep, firm, powerful male dwarf voice, about 45 years old, proud and resolute, booming and gravelly, a veteran warrior with a thick beard. Enano guerrero profundo y orgulloso, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Fantasy dwarf character: bearded miner and blacksmith, deep, gravelly, hearty and rugged, raw studio recording."
+  },
+  "dwarf-lancero": {
+    "voice_id": "RDMEW051sKKHQ0s5zVEy",
+    "name": "RTS Enano Lancero (es-es)",
+    "locale": "es-es",
+    "description": "A serious, weathered, gruff and laconic old male dwarf veteran voice, low-pitched and rough, a battle-hardened spearman of few words. Enano lancero curtido, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Fantasy dwarf character: bearded miner and blacksmith, deep, gravelly, hearty and rugged, raw studio recording."
+  },
+  "lanzador": {
+    "voice_id": "6CbcrlOUR7vChTqC88lJ",
+    "name": "RTS Enano Lanzador (es-es)",
+    "locale": "es-es",
+    "description": "A more agile, mocking and quick male dwarf voice, a little higher-pitched and faster than other dwarves but still gruff, cocky and playful, boasting about his aim. Enano lanzador burlón, acento castellano de España. Native speaker of Spanish from Spain with a clear Castilian peninsular accent (acento castellano de España), with the characteristic interdental 'z/c' lisp, NOT Latin American. Fantasy dwarf character: bearded miner and blacksmith, deep, gravelly, hearty and rugged, raw studio recording."
+  }
+}

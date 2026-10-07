@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="es"><meta charset="utf-8"><title>Vista previa edificios orcos</title>
+<style>body{margin:0;background:#cdd4d9;font:14px system-ui}#bar{position:fixed;z-index:2;top:10px;left:10px;background:white;padding:10px;border-radius:8px}select{margin-right:10px}</style>
+<div id="bar"><select id="building"><option value="salon-de-guerra">Salón de guerra</option><option value="cuartel">Cuartel</option><option value="matadero">Matadero</option><option value="campo-de-jabalinas">Campo de jabalinas</option></select><select id="stage"><option value="1">e1 Cimientos</option><option value="2">e2 Estructura</option><option value="3">e3 Casi listo</option><option value="4" selected>e4 Final</option></select><select id="view"><option value="game">Cámara aérea 3/4</option><option value="top">Desde arriba</option><option value="front">Frente</option></select><span id="status">Cargando...</span></div>
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+const scene=new THREE.Scene();scene.background=new THREE.Color('#cdd4d9');
+scene.add(new THREE.HemisphereLight(0xffffff,0x657287,3));
+const sun=new THREE.DirectionalLight(0xffffff,2.2);sun.position.set(8,15,10);scene.add(sun);
+const camera=new THREE.PerspectiveCamera(38,innerWidth/innerHeight,.1,100);
+const renderer=new THREE.WebGLRenderer({antialias:true});renderer.setSize(innerWidth,innerHeight);document.body.appendChild(renderer.domElement);
+const grid=new THREE.GridHelper(40,40,0x8796a1,0xafb9c0);scene.add(grid);
+const building=document.getElementById('building'),stage=document.getElementById('stage'),view=document.getElementById('view'),status=document.getElementById('status');
+let root;
+function cameraView(){const dist=building.value==='salon-de-guerra'?24:17;let p=view.value==='top'?[.1,dist*1.3,.1]:view.value==='front'?[0,dist*.43,dist]:[dist*.72,dist*.83,dist*.90];camera.position.set(...p);camera.lookAt(0,building.value==='salon-de-guerra'?3.8:2.5,0);}
+function load(){if(root)scene.remove(root);status.textContent='Cargando...';cameraView();new GLTFLoader().load(`../assets/buildings/orc/${building.value}_e${stage.value}.glb?preview=${Date.now()}`,g=>{root=g.scene;scene.add(root);status.textContent=`${building.value} e${stage.value}`;},undefined,e=>{console.error(e);status.textContent=String(e);});}
+building.onchange=load;stage.onchange=load;view.onchange=cameraView;load();
+function frame(){requestAnimationFrame(frame);renderer.render(scene,camera)}frame();
+addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
+</script></html>

@@ -1,0 +1,57 @@
+{
+  "units": "game_world",
+  "coordinateSystem": "right_handed_y_up_front_plus_z",
+  "partsAreSeparateGlbs": false,
+  "buildings": {
+    "salon-de-gremio": {
+      "final": "salon-de-gremio_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "cuartel": {
+      "final": "cuartel_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "campo-de-lanzadores": {
+      "final": "campo-de-lanzadores_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "ganaderia": {
+      "final": "ganaderia_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    },
+    "deposito": {
+      "final": "deposito_e4.glb",
+      "stageRotationYRadians": {
+        "e1": 0,
+        "e2": 0,
+        "e3": 0,
+        "e4": 0
+      },
+      "parts": []
+    }
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "obrero": {
+    "select": [
+      "assets/sounds/dwarf/voices/es-es/obrero/select_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/select_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/select_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/select_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/dwarf/voices/es-es/obrero/spawn_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/spawn_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/dwarf/voices/es-es/obrero/order_move_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_move_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_move_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_move_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_move_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/dwarf/voices/es-es/obrero/order_attack_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_attack_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_attack_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_attack_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_attack_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_attack_6.mp3"
+    ],
+    "order_work": [
+      "assets/sounds/dwarf/voices/es-es/obrero/order_work_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_work_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_work_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/order_work_4.mp3"
+    ],
+    "attack": [
+      "assets/sounds/dwarf/voices/es-es/obrero/attack_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/attack_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/attack_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/attack_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/attack_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/dwarf/voices/es-es/obrero/death_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/death_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/death_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/obrero/death_4.mp3"
+    ]
+  },
+  "guerrero": {
+    "select": [
+      "assets/sounds/dwarf/voices/es-es/guerrero/select_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/select_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/select_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/select_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/dwarf/voices/es-es/guerrero/spawn_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/spawn_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_move_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_move_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_move_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_move_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_move_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_attack_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_attack_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_attack_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_attack_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_attack_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/dwarf/voices/es-es/guerrero/attack_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/attack_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/attack_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/attack_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/attack_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/dwarf/voices/es-es/guerrero/death_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/death_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/death_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/guerrero/death_4.mp3"
+    ]
+  },
+  "lancero": {
+    "select": [
+      "assets/sounds/dwarf/voices/es-es/lancero/select_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/select_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/select_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/select_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/dwarf/voices/es-es/lancero/spawn_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/spawn_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/dwarf/voices/es-es/lancero/order_move_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_move_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_move_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_move_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_move_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/dwarf/voices/es-es/lancero/order_attack_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_attack_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_attack_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_attack_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_attack_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/dwarf/voices/es-es/lancero/attack_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/attack_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/attack_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/attack_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/attack_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/dwarf/voices/es-es/lancero/death_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/death_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/death_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lancero/death_4.mp3"
+    ]
+  },
+  "lanzador": {
+    "select": [
+      "assets/sounds/dwarf/voices/es-es/lanzador/select_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/select_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/select_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/select_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/select_5.mp3"
+    ],
+    "spawn": [
+      "assets/sounds/dwarf/voices/es-es/lanzador/spawn_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/spawn_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/spawn_3.mp3"
+    ],
+    "order_move": [
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_move_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_move_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_move_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_move_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_move_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_move_6.mp3"
+    ],
+    "order_attack": [
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_attack_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_attack_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_attack_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_attack_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_attack_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/order_attack_6.mp3"
+    ],
+    "attack": [
+      "assets/sounds/dwarf/voices/es-es/lanzador/attack_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/attack_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/attack_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/attack_4.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/attack_5.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/attack_6.mp3"
+    ],
+    "death": [
+      "assets/sounds/dwarf/voices/es-es/lanzador/death_1.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/death_2.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/death_3.mp3",
+      "assets/sounds/dwarf/voices/es-es/lanzador/death_4.mp3"
+    ]
+  },
+  "texto": {
+    "obrero": {
+      "select": [
+        "¡Dime, jefe!",
+        "¿Qué se te ofrece?",
+        "¡Aquí estoy, con barba y todo!",
+        "¿Trabajo? ¡Pues venga!",
+        "¡Presente, y con sed!"
+      ],
+      "spawn": [
+        "¡Ya estoy aquí, a currar!",
+        "¡Por las barbas de mi abuelo!",
+        "¡Listo para picar piedra!"
+      ],
+      "order_move": [
+        "¡Voy, voy, que no se enfríe la forja!",
+        "¡Ya me muevo, jefe!",
+        "¡A caminar, que es gratis!",
+        "¡Por los túneles voy!",
+        "¡Allá me las den todas!",
+        "¡En marcha, y con alegría!"
+      ],
+      "order_attack": [
+        "¡Si hay que pelear, se pelea!",
+        "¡Con el pico, si hace falta!",
+        "¡Por mi barba, que no me temen!",
+        "¡A darles caña!",
+        "¡Que vengan, que tengo martillo!",
+        "¡Por el oro y por la cerveza!"
+      ],
+      "order_work": [
+        "¡Manos a la obra!",
+        "¡A picar, que hay oro!",
+        "¡Esto lo saco yo en un santiamén!",
+        "¡Al tajo, compañeros!"
+      ],
+      "attack": [
+        "¡Toma pico!",
+        "¡Fuera de mi mina!",
+        "¡Por las barbas!",
+        "¡A ver quién puede más!",
+        "¡Toma martillazo!",
+        "¡Largo de aquí!"
+      ],
+      "death": [
+        "¡Ay, mi barba...!",
+        "¡Y yo sin acabar la cerveza...!",
+        "¡Que alguien cuide mi mina...!",
+        "¡Se acabó el tajo...!"
+      ]
+    },
+    "guerrero": {
+      "select": [
+        "Por la piedra y el honor.",
+        "A tus órdenes, jefe.",
+        "Firme como la roca.",
+        "Habla, que escucho.",
+        "Mi hacha está lista."
+      ],
+      "spawn": [
+        "Por el clan y las barbas.",
+        "Mi hacha es tuya.",
+        "Listo para la guerra."
+      ],
+      "order_move": [
+        "Avanzo, firme.",
+        "Por las montañas voy.",
+        "Marcho con orgullo.",
+        "A paso de enano.",
+        "Sin demora, jefe.",
+        "Hacia donde mandes."
+      ],
+      "order_attack": [
+        "¡Por el honor del clan!",
+        "¡Los partiré en dos!",
+        "¡Sin piedad ni miedo!",
+        "¡Que tiemble su carne!",
+        "¡A por ellos, por mis ancestros!",
+        "¡Mi hacha tiene hambre!"
+      ],
+      "attack": [
+        "¡Por las montañas!",
+        "¡Sentid mi hacha!",
+        "¡Por mi barba!",
+        "¡Caed, cobardes!",
+        "¡Honor y acero!",
+        "¡Piedra y fuego!"
+      ],
+      "death": [
+        "Mi hacha... pasa a mi hijo...",
+        "Con honor... me voy...",
+        "Por el clan... hasta el final...",
+        "La roca... me acoge..."
+      ]
+    },
+    "lancero": {
+      "select": [
+        "Habla.",
+        "Te escucho.",
+        "Ordena, jefe.",
+        "Firme.",
+        "¿Qué hay?"
+      ],
+      "spawn": [
+        "Presente.",
+        "Cumpliré.",
+        "Que vengan."
+      ],
+      "order_move": [
+        "Voy, jefe.",
+        "En marcha.",
+        "A paso firme.",
+        "Marcho.",
+        "Hacia allá.",
+        "Sin prisa, sin pausa."
+      ],
+      "order_attack": [
+        "Los clavaré.",
+        "Murallas de lanzas.",
+        "Será un honor.",
+        "A formar, muchachos.",
+        "Sin pasos atrás.",
+        "Los detendré."
+      ],
+      "attack": [
+        "¡Muro de lanzas!",
+        "¡Atrás, bestias!",
+        "¡Ni un paso!",
+        "¡Prueba mi lanza!",
+        "¡Firmes!",
+        "¡Cierra filas!"
+      ],
+      "death": [
+        "Cumplí... mi deber...",
+        "Maldita sea... mi barba...",
+        "Cuida el clan... jefe...",
+        "Al fin... descanso..."
+      ]
+    },
+    "lanzador": {
+      "select": [
+        "¿A quién le toca hoy?",
+        "¡Dime el blanco, jefe!",
+        "¡No fallo ni borracho!",
+        "¿Me llamabas, jefe?",
+        "¡Buena puntería, mejor humor!"
+      ],
+      "spawn": [
+        "¡Aquí el mejor lanzador!",
+        "¡Que se escondan, ja!",
+        "¡Hachas afiladas y listo!"
+      ],
+      "order_move": [
+        "¡Voy, voy, ligero!",
+        "¡Cambio de sitio, jefe!",
+        "¡Corriendo, corriendo!",
+        "¡A buscar buen sitio!",
+        "¡Rápido como una rata de mina!",
+        "¡Allá voy, enano a la fuga!"
+      ],
+      "order_attack": [
+        "¡Les haré agujeros!",
+        "¡Ese es mío!",
+        "¡Hoy llueven hachas!",
+        "¡Los tengo a tiro!",
+        "¡Qué blanco más gordo!",
+        "¡A lanzar, que me aburro!"
+      ],
+      "attack": [
+        "¡Toma hacha!",
+        "¡Al ojo!",
+        "¡Eso es puntería!",
+        "¡Esquiva esta!",
+        "¡Otro para la colección!",
+        "¡Zas, clavado!"
+      ],
+      "death": [
+        "¡No... era... mi mejor tiro!",
+        "Me han... acertado... qué afrenta...",
+        "¡Mi hacha... no falló!",
+        "Fallé... el último..."
+      ]
+    }
+  }
+}

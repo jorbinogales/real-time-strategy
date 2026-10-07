@@ -1,0 +1,32 @@
+{
+  "built": [
+    "built_1.mp3",
+    "built_2.mp3",
+    "built_3.mp3"
+  ],
+  "gold_empty": [
+    "gold_empty_1.mp3",
+    "gold_empty_2.mp3",
+    "gold_empty_3.mp3"
+  ],
+  "stone_empty": [
+    "stone_empty_1.mp3",
+    "stone_empty_2.mp3",
+    "stone_empty_3.mp3"
+  ],
+  "attack": [
+    "attack_1.mp3",
+    "attack_2.mp3",
+    "attack_3.mp3"
+  ],
+  "no_res_build": [
+    "no_res_build_1.mp3",
+    "no_res_build_2.mp3",
+    "no_res_build_3.mp3"
+  ],
+  "no_res_train": [
+    "no_res_train_1.mp3",
+    "no_res_train_2.mp3",
+    "no_res_train_3.mp3"
+  ]
+}

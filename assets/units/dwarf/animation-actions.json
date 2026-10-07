@@ -1,0 +1,26 @@
+{
+  "guerrero": {
+    "rig_task_id": "01a112a2-81f2-71d4-b07d-6f6ec74181bf",
+    "action_ids": { "idle": 89, "attack": 237, "hit": 178, "death": 188 },
+    "walk": "Meshy rig basic walking",
+    "run": "Meshy rig basic running"
+  },
+  "lancero": {
+    "rig_task_id": "01a112a2-a57a-70cd-80f0-bf629f86b7e1",
+    "action_ids": { "idle": 89, "attack": 240, "hit": 178, "death": 188 },
+    "walk": "Meshy rig basic walking",
+    "run": "Meshy rig basic running"
+  },
+  "obrero": {
+    "rig_task_id": "01a112b1-e4a1-768d-8f95-053e13a174ba",
+    "action_ids": { "idle": 89, "attack": 219, "work": 128, "hit": 178, "death": 188 },
+    "walk": "Meshy rig basic walking",
+    "run": "Meshy rig basic running"
+  },
+  "lanzador": {
+    "rig_task_id": "01a112b2-2410-71d4-8527-4fe3092f8da2",
+    "action_ids": { "idle": 89, "attack": 421, "hit": 178, "death": 188 },
+    "walk": "Meshy rig basic walking",
+    "run": "Meshy rig basic running"
+  }
+}

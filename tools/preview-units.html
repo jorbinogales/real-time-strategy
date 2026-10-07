@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<meta charset="utf-8">
+<title>Vista previa de unidades</title>
+<style>
+  body { margin: 0; background: #d0d7dd; font: 14px system-ui; }
+  #toolbar { position: fixed; z-index: 2; top: 12px; left: 12px; background: #fff; padding: 10px; border-radius: 8px; }
+  select { margin-right: 12px; }
+  #status { display: inline-block; min-width: 300px; }
+  canvas { display: block; }
+  #debug { position: fixed; bottom: 8px; left: 8px; background: #ffffffbb; padding: 6px; font: 11px monospace; white-space: pre; }
+</style>
+<div id="toolbar">
+  <select id="unit"><option value="soldado-raso">Soldado</option><option value="lancero">Lancero</option><option value="arquero">Arquero</option></select>
+  <select id="clip"><option>idle</option><option>walk</option><option>run</option><option>attack</option><option>hit</option><option>death</option></select>
+  <select id="view"><option value="front">Frente</option><option value="game">Cámara aérea</option></select>
+  <label>Fotograma <input id="phase" type="range" min="0" max="100" value="0"></label>
+  <button id="resume" type="button">Reproducir</button>
+  <span id="status">Cargando...</span>
+</div>
+<div id="debug"></div>
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+const files = {
+  'soldado-raso': '../assets/units/human/soldado-raso.glb',
+  lancero: '../assets/units/human/lancero.glb',
+  arquero: '../assets/units/human/arquero.glb',
+};
+const unit = document.getElementById('unit'), clip = document.getElementById('clip'), phase = document.getElementById('phase'), resume = document.getElementById('resume'), status = document.getElementById('status');
+const view = document.getElementById('view');
+const debug = document.getElementById('debug');
+const scene = new THREE.Scene(); scene.background = new THREE.Color(0xd0d7dd);
+scene.add(new THREE.HemisphereLight(0xffffff, 0x607080, 3));
+const sun = new THREE.DirectionalLight(0xffffff, 2); sun.position.set(3, 6, 7); scene.add(sun);
+const camera = new THREE.PerspectiveCamera(35, innerWidth / innerHeight, .01, 100);
+camera.position.set(0, 2.4, 5); camera.lookAt(0, .9, 0);
+view.onchange = () => { camera.position.set(...(view.value === 'game' ? [2.6, 4.7, 5.4] : [0, 2.4, 5])); camera.lookAt(0, .9, 0); };
+const renderer = new THREE.WebGLRenderer({ antialias: true }); renderer.setSize(innerWidth, innerHeight); renderer.setPixelRatio(devicePixelRatio); document.body.appendChild(renderer.domElement);
+const grid = new THREE.GridHelper(10, 20, 0x82909a, 0xaab4bc); scene.add(grid);
+let root, mixer, action, paused = false;
+function play() { if (!mixer || !root) return; mixer.stopAllAction(); const a = root.userData.clips.find(a => a.name === clip.value); if (!a) { status.textContent = 'Falta animación: ' + clip.value; return; } action = mixer.clipAction(a); action.play(); mixer.setTime(0); phase.value = 0; paused = false; resume.textContent = 'Pausar'; status.textContent = unit.value + ' | ' + root.userData.clips.map(a => a.name).join(', '); }
+function load() { if (root) scene.remove(root); mixer = null; status.textContent = 'Cargando...'; new GLTFLoader().load(`${files[unit.value]}?preview=${Date.now()}`, gltf => { root = gltf.scene; root.userData.clips = gltf.animations; scene.add(root); mixer = new THREE.AnimationMixer(root); play(); }, undefined, e => { console.error(e); status.textContent = String(e); }); }
+unit.onchange = load; clip.onchange = play;
+phase.oninput = () => { if (!action) return; paused = true; resume.textContent = 'Reproducir'; mixer.setTime(action.getClip().duration * Number(phase.value) / 100); };
+resume.onclick = () => { paused = !paused; resume.textContent = paused ? 'Reproducir' : 'Pausar'; };
+load();
+const clock = new THREE.Clock(); function frame() { requestAnimationFrame(frame); const dt = clock.getDelta(); if (mixer && !paused) { mixer.update(dt); if (action) phase.value = Math.round((action.time % action.getClip().duration) / action.getClip().duration * 100); } if (root) { root.updateMatrixWorld(true); debug.textContent = ['RightHand','LeftHand','LeftForeArm','short_sword','round_shield','long_spear','longbow'].map(name => { const obj = root.getObjectByName(name); if (!obj) return ''; const p = obj.getWorldPosition(new THREE.Vector3()); const q = obj.getWorldQuaternion(new THREE.Quaternion()); return `${name}: ${p.toArray().map(v=>v.toFixed(3)).join(',')} q=${q.toArray().map(v=>v.toFixed(2)).join(',')}`; }).filter(Boolean).join('\n'); } renderer.render(scene, camera); } frame();
+addEventListener('resize', () => { camera.aspect = innerWidth / innerHeight; camera.updateProjectionMatrix(); renderer.setSize(innerWidth, innerHeight); });
+</script>
+</html>

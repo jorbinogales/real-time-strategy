@@ -1,0 +1,16 @@
+# temporales y sesiones locales
+.tmp/
+.claude/
+node_modules/
+*.log
+# tuberías de generación de assets (pesadas, reproducibles) y respaldos
+tools/*-pipeline/
+tools/glb-originals/
+tools/decor-v1/
+tools/_*/
+tools/*-concepts/
+tools/elf-corrections/
+tools/elf-ui/
+tools/elf-test/
+tools/axe-test/
+tools/human-eco-buildings/
